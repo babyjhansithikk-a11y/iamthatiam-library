@@ -1,0 +1,160 @@
+{
+  "posts": [],
+  "categories": [
+    {
+      "id": "sri-nisargadatta-maharaj",
+      "name": "Sri Nisarga Datta Maharaj Bhodhanalu",
+      "nameTelugu": "శ్రీ నిసర్గ దత్త మహారాజ్ బోధనలు",
+      "icon": "Compass",
+      "color": "#7354A6",
+      "description": "Pavitra Grandhaalu, 'Nenu Vunnanu' Mahaa Mantram & Nisarga Datta Discourse",
+      "descriptionTelugu": "పవిత్ర గ్రంథాలు, 'నేను వున్నాను' మహా మంత్రం & నిసర్గ దత్త డిస్కోర్స్",
+      "order": 0
+    },
+    {
+      "id": "nisarga-yogam",
+      "name": "Nisarga Yogam",
+      "nameTelugu": "నిసర్గ యోగం",
+      "icon": "Compass",
+      "color": "#7354A6",
+      "description": "Natural yoga of self-abidance and Sri Nisargadatta Maharaj wisdom",
+      "descriptionTelugu": "నిసర్గ యోగం, సహజ సమాధి మరియు శ్రీ నిసర్గదత్త మహారాజ్ బోధనలు",
+      "order": 1
+    },
+    {
+      "id": "chaitanyam-yokka-rahasyam",
+      "name": "Chaitanyam Yokka Rahasyam",
+      "nameTelugu": "చైతన్యం యొక్క రహస్యం",
+      "icon": "Sparkles",
+      "color": "#EAB6A2",
+      "description": "The secret of pure consciousness and non-dual realization",
+      "descriptionTelugu": "చైతన్య రహస్యం, అద్వైత జ్ఞానం మరియు ఆత్మతత్త్వ విచారణ",
+      "order": 2
+    },
+    {
+      "id": "swaroopa-nistha-saadhana",
+      "name": "Swaroopa Nistha Saadhana",
+      "nameTelugu": "స్వరూప నిష్ఠ సాధన",
+      "icon": "Sparkles",
+      "color": "#7354A6",
+      "description": "Abiding steadfastly in true Self through contemplation and stillness",
+      "descriptionTelugu": "నిజ స్వరూపంలో నిష్ఠతో కూడిన ధ్యాన సాధన మరియు మనస్సు నిశ్చలత",
+      "order": 3
+    },
+    {
+      "id": "saadhana-sampathi",
+      "name": "Saadhana Sampathi",
+      "nameTelugu": "సాధన సంపత్తి",
+      "icon": "Music",
+      "color": "#A8BBA0",
+      "description": "Spiritual wealth, devotion, and inner virtues for liberation",
+      "descriptionTelugu": "ఆధ్యాత్మిక సాధనా సంపత్తి, భక్తి మరియు అంతర్గత సద్గుణాలు",
+      "order": 4
+    },
+    {
+      "id": "japa-swaroopa-yogam",
+      "name": "Japa Swaroopa Samyogam",
+      "nameTelugu": "జప స్వరూప సంయోగం",
+      "icon": "Sun",
+      "color": "#E8C77B",
+      "description": "Sacred japa meditation, mantra repetition, and japamaala samyogam practice",
+      "descriptionTelugu": "జపమాల సాధన, మంత్ర జపం మరియు జప స్వరూప సంయోగం",
+      "order": 5
+    },
+    {
+      "id": "moola-maya",
+      "name": "Moola Maya",
+      "nameTelugu": "మూల మాయ",
+      "icon": "Sparkles",
+      "color": "#7354A6",
+      "description": "Understanding primal illusion (Moola Maya) and transcending appearance",
+      "descriptionTelugu": "మూల మాయ తత్త్వం, భ్రాంతి నివారణ మరియు పరమ సత్య బోధన",
+      "order": 6
+    },
+    {
+      "id": "deham-yokka-asthitwa-vicharana",
+      "name": "Deham Yokka Asthitwa Vicharana",
+      "nameTelugu": "దేహం యొక్క అస్తిత్వ విచారణ",
+      "icon": "BookOpen",
+      "color": "#EAB6A2",
+      "description": "Self-inquiry into the existence of the body and the eternal Witness",
+      "descriptionTelugu": "దేహం యొక్క అస్తిత్వ విచారణ మరియు దేహాతీత ఆత్మ సాక్షి తత్త్వం",
+      "order": 7
+    },
+    {
+      "id": "mahatmula-grandhaalu",
+      "name": "Mahatmula Grandhaalu",
+      "nameTelugu": "మహాత్ముల గ్రంథాలు",
+      "icon": "Scroll",
+      "color": "#E8C77B",
+      "description": "Ramana Maharshi, Sadguru Subrahmanyam, Robert Adams & sacred writings",
+      "descriptionTelugu": "రమణ మహర్షి, సద్గురు సుబ్రహ్మణ్యం, రాబర్ట్ ఆడమ్స్ & మహాత్ముల గ్రంథాలు",
+      "order": 8
+    },
+    {
+      "id": "dattatreya",
+      "name": "Sri Guru Datta Sripaada Vallabha Swamy",
+      "nameTelugu": "శ్రీ గురు దత్త శ్రీపాద వల్లభ స్వామి",
+      "icon": "Sparkles",
+      "color": "#A8BBA0",
+      "description": "Datta Stotraalu, Datta Bhajanalu, Datta Avathaara Paraayana Grandhaalu, Datta Mantram & Datta Amsa Mahaatmulu",
+      "descriptionTelugu": "దత్త స్తోత్రాలు, దత్త భజనలు, దత్త అవతార పారాయణ గ్రంథాలు, దత్త మంత్రం & దత్తాంశ మహాత్ములు",
+      "order": 9
+    }
+  ],
+  "dailyInspiration": {
+    "quote": {
+      "text": "Digambara Digambara Sripaada Vallabha Digambara",
+      "textTelugu": "దిగంబర దిగంబర శ్రీపాద వల్లభ దిగంబర",
+      "author": "",
+      "authorTelugu": "",
+      "source": ""
+    },
+    "prayer": {
+      "title": "",
+      "titleTelugu": "",
+      "sanskrit": "నేను ఉన్నాను (Nenu Unnanu)",
+      "meaning": "",
+      "meaningTelugu": "",
+      "audioUrl": ""
+    },
+    "meditation": {
+      "title": "Divine Breath Awakening (15 Minutes)",
+      "titleTelugu": "ఆనాపానసతి - ప్రశాంత శ్వాస ధ్యానం",
+      "durationMinutes": 15,
+      "description": "Center your awareness on natural breathing and quiet the restless ripples of the mind.",
+      "descriptionTelugu": "మీ సహజ శ్వాసపై ధ్యాస నిలిపి అంతరంగంలో అపారమైన ప్రశాంతతను అనుభవించండి.",
+      "steps": [
+        "Sit comfortably with your spine upright and shoulders relaxed.",
+        "Close your eyes gently and take three deep breaths.",
+        "Witness your breath entering and leaving your nostrils without forcing it.",
+        "When thoughts arise, simply acknowledge them and return to the gentle flow of breath.",
+        "End with a moment of silent gratitude to the universe."
+      ],
+      "stepsTelugu": [
+        "వెన్నెముక నిటారుగా ఉంచి సుఖవంతమైన ఆసనంలో కూర్చోండి.",
+        "కళ్ళు సున్నితంగా మూసుకుని మూడు సార్లు దీర్ఘ శ్వాస తీసుకోండి.",
+        "నాసికాగ్రం వద్ద శ్వాస లోపలికి రావడం, వెలుపలికి పోవడం గమనించండి.",
+        "ఆలోచనలు వచ్చినప్పుడు వాటిని గమనించి, మళ్ళీ శ్వాసపైకి దృష్టి మరల్చండి.",
+        "హృదయంలో విశ్వానికి కృతజ్ఞతా భావంతో ధ్యానం ముగించండి."
+      ],
+      "audioUrl": ""
+    },
+    "thought": {
+      "title": "Kalau Sripaada Vallabho Dattatreya Avataarakah | Peethikaapura Sanjaatah Sumatee Nandanah Prabhuh || Appalaraaja Tanayah Karunaamruta Saagarah | Sripaada Raajam Saranam Prapadye Bhavataarakam ||",
+      "titleTelugu": "కలౌ శ్రీపాద వల్లభో దత్తాత్రేయ అవతారకః |\n\nపీఠికాపుర సంజాతః సుమతీ నందనః ప్రభుః ||\n\nఅప్పలరాజ తనయః కరుణామృత సాగరః |\n\nశ్రీపాద రాజం శరణం ప్రపద్యే భవతారకమ్ ||",
+      "reflection": "",
+      "reflectionTelugu": ""
+    },
+    "weeklyTheme": {
+      "title": "Guruvu Bodha - Sharanaagati Tatvam",
+      "titleTelugu": "గురువు బోధ - శరణాగతి తత్త్వం",
+      "description": "Truth is very simple, but your old habits are pulling you into complex illusions. Therefore, faith in the Guru’s words is very important!",
+      "descriptionTelugu": "సత్యం చాలా సులభమైనది,\nకానీ నీ పాత అలవాట్లే నిన్ను సంక్లిష్టమైన భ్రమల్లోకి లాగుతున్నాయి. అందుకు గురువు యొక్క మాటలపై విశ్వాసం చాలా ముఖ్యం!"
+    },
+    "featuredImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-10-17T07:00:03.329Z"
+  },
+  "adminPasswordHash": "52796daf436b19d5b5f420e1b7813408e299e8cfde2fe83322249597f38722bf",
+  "adminUsername": "admin"
+}

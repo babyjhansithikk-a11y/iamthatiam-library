@@ -1,5 +1,178 @@
 {
-  "posts": [],
+  "revision": 1,
+  "starterSeeded": true,
+  "posts": [
+    {
+      "id": "seed-nenu-unnanu-mantram",
+      "title": "'Nenu Vunnanu' — The Living Mahaa Mantram",
+      "titleTelugu": "'నేను వున్నాను' — నిత్య జీవన మహా మంత్రం",
+      "description": "Sri Nisargadatta Maharaj’s direct pointer: abide calmly in the effortless awareness of existing before any thought arises.",
+      "descriptionTelugu": "ఏ ఆలోచనా రాకముందే సహజంగా ఉన్న \"నేను వున్నాను\" అనే శుద్ధ చైతన్య స్థితిలో నిశ్చలంగా నిలబడే శ్రీ నిసర్గదత్త మహారాజ్ ప్రత్యక్ష బోధన.",
+      "content": "Before every thought, memory, or bodily sensation, there is the quiet, undeniable certainty: \"I Am\". Hold onto this bare sense of presence without adding any label such as name, role, or worry. Just as salt dissolves into the ocean, the restless mind subsides into Peace when attention rests in \"I Am\".",
+      "contentTelugu": "ప్రతి ఆలోచన, జ్ఞాపకం లేదా దేహ అనుభవానికి ముందే మౌనంగా ప్రకాశించే పరమ సత్యం — \"నేను వున్నాను\". దానికి పేరు, రూపం, బాధ్యతలు లేదా భయాలు ఏవీ జతచేయకుండా కేవలం ఆ స్వచ్ఛమైన \"నేను వున్నాను\" అనే స్పృహలోనే నిశ్చలంగా నిలబడండి.\n\nసముద్రంలో ఉప్పు కరిగిపోయినట్లు, దృష్టిని బాహ్య ప్రపంచం నుండి అంతర్ముఖమైన \"నేను వున్నాను\" అనుభవంపై నిలిపినప్పుడు మనస్సు ప్రశాంతమైన సహజ సమాధిలో లీనమవుతుంది.",
+      "type": "article",
+      "category": "sri-nisargadatta-maharaj",
+      "subCategory": "nenu-vunnanu-mahaa-mantram",
+      "author": "Sri Nisargadatta Maharaj",
+      "authorTelugu": "శ్రీ నిసర్గ దత్త మహారాజ్",
+      "tags": [
+        "Nisargadatta",
+        "I Am",
+        "Mahaa Mantram",
+        "Nisarga Yoga"
+      ],
+      "language": "both",
+      "isFeatured": true,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-01-01",
+      "viewsCount": 2,
+      "favoritesCount": 0,
+      "createdAt": "2026-01-01T06:00:00.000Z",
+      "updatedAt": "2026-01-01T06:00:00.000Z"
+    },
+    {
+      "id": "seed-pavitra-grandhaalu-i-am-that",
+      "title": "Essence of Pavitra Grandhaalu — Abiding as the Witness",
+      "titleTelugu": "పవిత్ర గ్రంథాల సారం — సాక్షి చైతన్య స్థితి",
+      "description": "Understanding the distinction between the ever-changing body-mind and the changeless Witness.",
+      "descriptionTelugu": "మారుతూ ఉండే దేహమనస్సులకు, మార్పు లేని నిత్య సాక్షి స్వరూపానికి మధ్య ఉన్న భేదాన్ని స్పష్టం చేసే గ్రంథ సారం.",
+      "content": "Whatever comes and goes is an appearance within awareness. Thoughts rise and vanish, the waking state yields to dream and deep sleep, yet that which knows all three states remains untouched. Know yourself as the timeless Witness.",
+      "contentTelugu": "వస్తూ పోతూ ఉండేది ఏదైనా చైతన్యంలో కనిపించే దృశ్యం మాత్రమే. ఆలోచనలు వస్తాయి, పోతాయి; జాగ్రత్, స్వప్న, సుషుప్తి అవస్థలు మారుతూ ఉంటాయి. కానీ ఈ మూడింటినీ గమనించే సాక్షి చైతన్యం ఎప్పుడూ మారదు. ఆ నిత్య సాక్షి స్వరూపమే నీవు అని గుర్తించడమే మోక్షం.",
+      "type": "discourse",
+      "category": "sri-nisargadatta-maharaj",
+      "subCategory": "pavitra-grandhaalu",
+      "author": "I AM THAT I AM",
+      "authorTelugu": "నేనే ఆ పరబ్రహ్మము",
+      "tags": [
+        "Witness",
+        "Advaita",
+        "Nisargadatta",
+        "Pavitra Grandhaalu"
+      ],
+      "language": "both",
+      "isFeatured": true,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-01-02",
+      "viewsCount": 6,
+      "favoritesCount": 0,
+      "createdAt": "2026-01-02T06:00:00.000Z",
+      "updatedAt": "2026-01-02T06:00:00.000Z"
+    },
+    {
+      "id": "seed-ramana-who-am-i",
+      "title": "Atma Vicharana — Who Am I? (Sri Ramana Maharshi)",
+      "titleTelugu": "భగవాన్ శ్రీ రమణ మహర్షి — ఆత్మ విచారణ (నేను ఎవరు?)",
+      "description": "The royal path of self-inquiry: tracing the \"I\"-thought back to its silent source in the Heart.",
+      "descriptionTelugu": "\"నేను ఎవరు?\" అనే అఖండ ఆత్మ విచారణ ద్వారా మనస్సును తన మూల స్థానమైన హృదయంలో లయం చేసే మార్గం.",
+      "content": "Whenever any thought arises during meditation or daily life, do not follow it. Ask calmly: \"To whom does this thought arise?\" The answer is \"To me.\" Then inquire inward: \"Who am I?\" Returning gently to stillness without forcing thought dissolves all illusion at its root.",
+      "contentTelugu": "ధ్యానంలో గానీ నిత్య జీవితంలో గానీ ఏ ఆలోచన వచ్చినా దాని వెంట పరుగెత్తకండి. \"ఈ ఆలోచన ఎవరికి కలిగింది?\" అని శాంతంగా ప్రశ్నించండి. \"నాకు\" అనే సమాధానం వస్తుంది. వెంటనే \"ఆ నేను ఎవరు?\" అని అంతర్ముఖంగా విచారించండి.\n\nఈ విచారణతో మనస్సు తన మూలమైన హృదయ శాంతిలో విశ్రమిస్తుంది.",
+      "type": "article",
+      "category": "mahatmula-grandhaalu",
+      "author": "Bhagavan Sri Ramana Maharshi",
+      "authorTelugu": "భగవాన్ శ్రీ రమణ మహర్షి",
+      "tags": [
+        "Ramana Maharshi",
+        "Self-Inquiry",
+        "Who Am I",
+        "Advaita"
+      ],
+      "language": "both",
+      "isFeatured": true,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-01-03",
+      "viewsCount": 2,
+      "favoritesCount": 0,
+      "createdAt": "2026-01-03T06:00:00.000Z",
+      "updatedAt": "2026-01-03T06:00:00.000Z"
+    },
+    {
+      "id": "seed-siddha-mangala-stotram",
+      "title": "Sri Siddha Mangala Stotram — Sripaada Sri Vallabha",
+      "titleTelugu": "శ్రీ సిద్ధ మంగళ స్తోత్రం — శ్రీపాద శ్రీ వల్లభ స్వామి",
+      "description": "Sacred hymn praising Lord Dattatreya’s Kali Yuga incarnation Sripaada Sri Vallabha of Pithapuram.",
+      "descriptionTelugu": "పీఠికాపుర క్షేత్రంలో అవతరించిన శ్రీపాద శ్రీ వల్లభ స్వామిని కీర్తించే పరమ పవిత్ర మంగళ స్తోత్రం.",
+      "content": "Shreemad-ananta shree-vibhushita Appalakshmi Narasimha Raaja | Jaya Vijayee-bhava Digvijayee-bhava Shreemad-akhanda Shree Vidyaadhari || Digambara Digambara Sripaada Vallabha Digambara.",
+      "contentTelugu": "శ్రీమదనంత శ్రీవిభూషిత అప్పలలక్ష్మీ నరసింహ రాజా |\nజయ విజయీభవ దిగ్విజయీభవ శ్రీమదఖండ శ్రీ విద్యాధరీ ||\n\nదిగంబర దిగంబర శ్రీపాద వల్లభ దిగంబర |\nదిగంబర దిగంబర శ్రీ గురు దత్త దిగంబర ||",
+      "type": "prayer",
+      "category": "dattatreya",
+      "subCategory": "datta-stotraalu",
+      "author": "I AM THAT I AM",
+      "authorTelugu": "నేనే ఆ పరబ్రహ్మము",
+      "tags": [
+        "Dattatreya",
+        "Sripaada Vallabha",
+        "Stotram",
+        "Digambara"
+      ],
+      "language": "both",
+      "isFeatured": true,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-01-04",
+      "viewsCount": 2,
+      "favoritesCount": 0,
+      "createdAt": "2026-01-04T06:00:00.000Z",
+      "updatedAt": "2026-01-04T06:00:00.000Z"
+    },
+    {
+      "id": "seed-swaroopa-nistha-saadhana",
+      "title": "Swaroopa Nistha — Resting Effortlessly in Your True Nature",
+      "titleTelugu": "స్వరూప నిష్ఠ సాధన — సహజ నిశ్చల స్థితి",
+      "description": "Practical contemplation on remaining rooted in inner stillness amidst everyday responsibilities.",
+      "descriptionTelugu": "నిత్య కర్మలు నిర్వర్తిస్తూనే అంతరంగంలో సహజమైన నిశ్చల స్థితిని నిలుపుకునే స్వరూప నిష్ఠ విధానం.",
+      "content": "Spiritual practice is not escaping the world; it is noticing the unshakeable silence behind every action. Pause three times a day for two quiet minutes, feel the breath settle, and remember: awareness needs no effort to exist.",
+      "contentTelugu": "ఆధ్యాత్మిక సాధన అంటే ప్రపంచాన్ని వదిలి వెళ్ళడం కాదు; చేసే ప్రతి పని వెనుక ఉన్న నిశ్చల మౌనాన్ని గమనించడం. రోజుకు మూడు సార్లు రెండు నిమిషాలు కళ్ళు మూసుకుని శ్వాసను గమనిస్తూ ఆ ప్రశాంత చైతన్యంలో విశ్రమించండి.",
+      "type": "article",
+      "category": "swaroopa-nistha-saadhana",
+      "author": "I AM THAT I AM",
+      "authorTelugu": "నేనే ఆ పరబ్రహ్మము",
+      "tags": [
+        "Swaroopa Nistha",
+        "Stillness",
+        "Sadhana"
+      ],
+      "language": "both",
+      "isFeatured": false,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-01-05",
+      "viewsCount": 4,
+      "favoritesCount": 0,
+      "createdAt": "2026-01-05T06:00:00.000Z",
+      "updatedAt": "2026-01-05T06:00:00.000Z"
+    },
+    {
+      "id": "seed-japa-swaroopa-yogam",
+      "title": "Japa Swaroopa Samyogam — From Repetition to Silence",
+      "titleTelugu": "జప స్వరూప సంయోగం — మంత్ర జపం నుండి మౌన సమాధి వైపు",
+      "description": "How sacred mantra japa rhythmically quiets wandering thoughts and blossoms into silent remembrance.",
+      "descriptionTelugu": "నియమబద్ధమైన మంత్ర జపం చంచలమైన మనస్సును ఎలా నిశ్చల మౌన ధ్యానంగా మారుస్తుందో తెలిపే సాధన.",
+      "content": "Begin japa audibly or quietly in sync with gentle breathing. Gradually listen more closely to the silent interval between two repetitions of the mantra—in that quiet gap shines your true Swaroopa.",
+      "contentTelugu": "మంత్ర జపాన్ని సున్నితమైన శ్వాసతో లయబద్ధంగా ప్రారంభించండి. రెండు మంత్ర ఉచ్చారణల మధ్య ఉండే సూక్ష్మ మౌన విరామాన్ని గమనించండి — ఆ ప్రశాంత మౌనమే మీ నిజ స్వరూపం.",
+      "type": "article",
+      "category": "japa-swaroopa-yogam",
+      "author": "I AM THAT I AM",
+      "authorTelugu": "నేనే ఆ పరబ్రహ్మము",
+      "tags": [
+        "Japa",
+        "Mantra",
+        "Silence",
+        "Meditation"
+      ],
+      "language": "both",
+      "isFeatured": false,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-01-06",
+      "viewsCount": 4,
+      "favoritesCount": 0,
+      "createdAt": "2026-01-06T06:00:00.000Z",
+      "updatedAt": "2026-01-06T06:00:00.000Z"
+    }
+  ],
   "categories": [
     {
       "id": "sri-nisargadatta-maharaj",
@@ -9,7 +182,8 @@
       "color": "#7354A6",
       "description": "Pavitra Grandhaalu, 'Nenu Vunnanu' Mahaa Mantram & Nisarga Datta Discourse",
       "descriptionTelugu": "పవిత్ర గ్రంథాలు, 'నేను వున్నాను' మహా మంత్రం & నిసర్గ దత్త డిస్కోర్స్",
-      "order": 0
+      "order": 0,
+      "isActive": true
     },
     {
       "id": "nisarga-yogam",
@@ -19,7 +193,8 @@
       "color": "#7354A6",
       "description": "Natural yoga of self-abidance and Sri Nisargadatta Maharaj wisdom",
       "descriptionTelugu": "నిసర్గ యోగం, సహజ సమాధి మరియు శ్రీ నిసర్గదత్త మహారాజ్ బోధనలు",
-      "order": 1
+      "order": 1,
+      "isActive": true
     },
     {
       "id": "chaitanyam-yokka-rahasyam",
@@ -29,7 +204,8 @@
       "color": "#EAB6A2",
       "description": "The secret of pure consciousness and non-dual realization",
       "descriptionTelugu": "చైతన్య రహస్యం, అద్వైత జ్ఞానం మరియు ఆత్మతత్త్వ విచారణ",
-      "order": 2
+      "order": 2,
+      "isActive": true
     },
     {
       "id": "swaroopa-nistha-saadhana",
@@ -39,7 +215,8 @@
       "color": "#7354A6",
       "description": "Abiding steadfastly in true Self through contemplation and stillness",
       "descriptionTelugu": "నిజ స్వరూపంలో నిష్ఠతో కూడిన ధ్యాన సాధన మరియు మనస్సు నిశ్చలత",
-      "order": 3
+      "order": 3,
+      "isActive": true
     },
     {
       "id": "saadhana-sampathi",
@@ -49,7 +226,8 @@
       "color": "#A8BBA0",
       "description": "Spiritual wealth, devotion, and inner virtues for liberation",
       "descriptionTelugu": "ఆధ్యాత్మిక సాధనా సంపత్తి, భక్తి మరియు అంతర్గత సద్గుణాలు",
-      "order": 4
+      "order": 4,
+      "isActive": true
     },
     {
       "id": "japa-swaroopa-yogam",
@@ -59,7 +237,8 @@
       "color": "#E8C77B",
       "description": "Sacred japa meditation, mantra repetition, and japamaala samyogam practice",
       "descriptionTelugu": "జపమాల సాధన, మంత్ర జపం మరియు జప స్వరూప సంయోగం",
-      "order": 5
+      "order": 5,
+      "isActive": true
     },
     {
       "id": "moola-maya",
@@ -69,7 +248,8 @@
       "color": "#7354A6",
       "description": "Understanding primal illusion (Moola Maya) and transcending appearance",
       "descriptionTelugu": "మూల మాయ తత్త్వం, భ్రాంతి నివారణ మరియు పరమ సత్య బోధన",
-      "order": 6
+      "order": 6,
+      "isActive": true
     },
     {
       "id": "deham-yokka-asthitwa-vicharana",
@@ -79,7 +259,8 @@
       "color": "#EAB6A2",
       "description": "Self-inquiry into the existence of the body and the eternal Witness",
       "descriptionTelugu": "దేహం యొక్క అస్తిత్వ విచారణ మరియు దేహాతీత ఆత్మ సాక్షి తత్త్వం",
-      "order": 7
+      "order": 7,
+      "isActive": true
     },
     {
       "id": "mahatmula-grandhaalu",
@@ -89,7 +270,8 @@
       "color": "#E8C77B",
       "description": "Ramana Maharshi, Sadguru Subrahmanyam, Robert Adams & sacred writings",
       "descriptionTelugu": "రమణ మహర్షి, సద్గురు సుబ్రహ్మణ్యం, రాబర్ట్ ఆడమ్స్ & మహాత్ముల గ్రంథాలు",
-      "order": 8
+      "order": 8,
+      "isActive": true
     },
     {
       "id": "dattatreya",
@@ -99,7 +281,8 @@
       "color": "#A8BBA0",
       "description": "Datta Stotraalu, Datta Bhajanalu, Datta Avathaara Paraayana Grandhaalu, Datta Mantram & Datta Amsa Mahaatmulu",
       "descriptionTelugu": "దత్త స్తోత్రాలు, దత్త భజనలు, దత్త అవతార పారాయణ గ్రంథాలు, దత్త మంత్రం & దత్తాంశ మహాత్ములు",
-      "order": 9
+      "order": 9,
+      "isActive": true
     }
   ],
   "dailyInspiration": {
@@ -155,6 +338,9 @@
     "featuredImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
     "updatedAt": "2026-10-17T07:00:03.329Z"
   },
+  "deletedPostIds": {},
+  "deletedCategoryIds": {},
+  "adminUsername": "admin",
   "adminPasswordHash": "52796daf436b19d5b5f420e1b7813408e299e8cfde2fe83322249597f38722bf",
-  "adminUsername": "admin"
+  "updatedAt": "2026-11-25T05:58:41.178Z"
 }

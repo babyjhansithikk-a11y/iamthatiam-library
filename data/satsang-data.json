@@ -1,7 +1,33 @@
 {
-  "revision": 1,
+  "revision": 2,
   "starterSeeded": true,
   "posts": [
+    {
+      "id": "post-1795693958949-pmqr9m",
+      "title": "siddha mangala stotram",
+      "titleTelugu": "siddha mangala stotram",
+      "description": "-",
+      "descriptionTelugu": "-",
+      "content": "-",
+      "contentTelugu": "-",
+      "type": "prayer",
+      "category": "dattatreya",
+      "subCategory": "datta-stotraalu",
+      "author": "-",
+      "authorTelugu": "-",
+      "tags": [],
+      "mediaUrl": "/uploads/WhatsApp_Video_2026-11-17_at_14_36_54-1795693906255-424589704.mp4",
+      "fileSize": "12.05 MB",
+      "language": "te",
+      "isFeatured": false,
+      "isDailyInspiration": false,
+      "status": "published",
+      "publishDate": "2026-11-26",
+      "viewsCount": 0,
+      "favoritesCount": 0,
+      "createdAt": "2026-11-26T11:52:38.949Z",
+      "updatedAt": "2026-11-26T11:52:38.949Z"
+    },
     {
       "id": "seed-nenu-unnanu-mantram",
       "title": "'Nenu Vunnanu' — The Living Mahaa Mantram",
@@ -55,7 +81,7 @@
       "isDailyInspiration": false,
       "status": "published",
       "publishDate": "2026-01-02",
-      "viewsCount": 6,
+      "viewsCount": 2,
       "favoritesCount": 0,
       "createdAt": "2026-01-02T06:00:00.000Z",
       "updatedAt": "2026-01-02T06:00:00.000Z"
@@ -112,7 +138,7 @@
       "isDailyInspiration": false,
       "status": "published",
       "publishDate": "2026-01-04",
-      "viewsCount": 2,
+      "viewsCount": 6,
       "favoritesCount": 0,
       "createdAt": "2026-01-04T06:00:00.000Z",
       "updatedAt": "2026-01-04T06:00:00.000Z"
@@ -167,7 +193,7 @@
       "isDailyInspiration": false,
       "status": "published",
       "publishDate": "2026-01-06",
-      "viewsCount": 4,
+      "viewsCount": 2,
       "favoritesCount": 0,
       "createdAt": "2026-01-06T06:00:00.000Z",
       "updatedAt": "2026-01-06T06:00:00.000Z"
@@ -290,16 +316,14 @@
       "text": "Digambara Digambara Sripaada Vallabha Digambara",
       "textTelugu": "దిగంబర దిగంబర శ్రీపాద వల్లభ దిగంబర",
       "author": "",
-      "authorTelugu": "",
-      "source": ""
+      "authorTelugu": ""
     },
     "prayer": {
       "title": "",
       "titleTelugu": "",
       "sanskrit": "నేను ఉన్నాను (Nenu Unnanu)",
       "meaning": "",
-      "meaningTelugu": "",
-      "audioUrl": ""
+      "meaningTelugu": ""
     },
     "meditation": {
       "title": "Divine Breath Awakening (15 Minutes)",
@@ -320,8 +344,7 @@
         "నాసికాగ్రం వద్ద శ్వాస లోపలికి రావడం, వెలుపలికి పోవడం గమనించండి.",
         "ఆలోచనలు వచ్చినప్పుడు వాటిని గమనించి, మళ్ళీ శ్వాసపైకి దృష్టి మరల్చండి.",
         "హృదయంలో విశ్వానికి కృతజ్ఞతా భావంతో ధ్యానం ముగించండి."
-      ],
-      "audioUrl": ""
+      ]
     },
     "thought": {
       "title": "Kalau Sripaada Vallabho Dattatreya Avataarakah | Peethikaapura Sanjaatah Sumatee Nandanah Prabhuh || Appalaraaja Tanayah Karunaamruta Saagarah | Sripaada Raajam Saranam Prapadye Bhavataarakam ||",
@@ -342,5 +365,5 @@
   "deletedCategoryIds": {},
   "adminUsername": "admin",
   "adminPasswordHash": "52796daf436b19d5b5f420e1b7813408e299e8cfde2fe83322249597f38722bf",
-  "updatedAt": "2026-11-25T05:58:41.178Z"
+  "updatedAt": "2026-11-26T11:52:38.949Z"
 }

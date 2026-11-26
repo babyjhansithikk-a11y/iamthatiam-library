@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "starterSeeded": true,
   "posts": [
     {
@@ -23,7 +23,7 @@
       "isDailyInspiration": false,
       "status": "published",
       "publishDate": "2026-11-26",
-      "viewsCount": 0,
+      "viewsCount": 2,
       "favoritesCount": 0,
       "createdAt": "2026-11-26T11:52:38.949Z",
       "updatedAt": "2026-11-26T11:52:38.949Z"
@@ -113,35 +113,6 @@
       "favoritesCount": 0,
       "createdAt": "2026-01-03T06:00:00.000Z",
       "updatedAt": "2026-01-03T06:00:00.000Z"
-    },
-    {
-      "id": "seed-siddha-mangala-stotram",
-      "title": "Sri Siddha Mangala Stotram — Sripaada Sri Vallabha",
-      "titleTelugu": "శ్రీ సిద్ధ మంగళ స్తోత్రం — శ్రీపాద శ్రీ వల్లభ స్వామి",
-      "description": "Sacred hymn praising Lord Dattatreya’s Kali Yuga incarnation Sripaada Sri Vallabha of Pithapuram.",
-      "descriptionTelugu": "పీఠికాపుర క్షేత్రంలో అవతరించిన శ్రీపాద శ్రీ వల్లభ స్వామిని కీర్తించే పరమ పవిత్ర మంగళ స్తోత్రం.",
-      "content": "Shreemad-ananta shree-vibhushita Appalakshmi Narasimha Raaja | Jaya Vijayee-bhava Digvijayee-bhava Shreemad-akhanda Shree Vidyaadhari || Digambara Digambara Sripaada Vallabha Digambara.",
-      "contentTelugu": "శ్రీమదనంత శ్రీవిభూషిత అప్పలలక్ష్మీ నరసింహ రాజా |\nజయ విజయీభవ దిగ్విజయీభవ శ్రీమదఖండ శ్రీ విద్యాధరీ ||\n\nదిగంబర దిగంబర శ్రీపాద వల్లభ దిగంబర |\nదిగంబర దిగంబర శ్రీ గురు దత్త దిగంబర ||",
-      "type": "prayer",
-      "category": "dattatreya",
-      "subCategory": "datta-stotraalu",
-      "author": "I AM THAT I AM",
-      "authorTelugu": "నేనే ఆ పరబ్రహ్మము",
-      "tags": [
-        "Dattatreya",
-        "Sripaada Vallabha",
-        "Stotram",
-        "Digambara"
-      ],
-      "language": "both",
-      "isFeatured": true,
-      "isDailyInspiration": false,
-      "status": "published",
-      "publishDate": "2026-01-04",
-      "viewsCount": 6,
-      "favoritesCount": 0,
-      "createdAt": "2026-01-04T06:00:00.000Z",
-      "updatedAt": "2026-01-04T06:00:00.000Z"
     },
     {
       "id": "seed-swaroopa-nistha-saadhana",
@@ -361,9 +332,11 @@
     "featuredImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
     "updatedAt": "2026-10-17T07:00:03.329Z"
   },
-  "deletedPostIds": {},
+  "deletedPostIds": {
+    "seed-siddha-mangala-stotram": "2026-11-26T11:54:37.440Z"
+  },
   "deletedCategoryIds": {},
   "adminUsername": "admin",
   "adminPasswordHash": "52796daf436b19d5b5f420e1b7813408e299e8cfde2fe83322249597f38722bf",
-  "updatedAt": "2026-11-26T11:52:38.949Z"
+  "updatedAt": "2026-11-26T11:54:37.440Z"
 }
